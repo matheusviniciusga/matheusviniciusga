@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Eu sou Matheus Vinícius 👋
 
-<!--
-**matheusviniciusga/matheusviniciusga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web | Front-end & Back-end  
+🚀 Experiência com Java, Spring Boot, Node.js, React, Next.js, PostgreSQL  
+📍 Recife - PE  
 
-Here are some ideas to get you started:
+## 🔹 Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/matheusviniciusgadev) | [E-mail](mailto:matheusviniciusga@gmail.com)
