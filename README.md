@@ -1,7 +1,7 @@
 # Olá! Eu sou Matheus Vinícius 👋
 
 💻 Desenvolvedor Web | Front-end & Back-end  
-🚀 Experiência com Java, Spring Boot, Node.js, React, Next.js, PostgreSQL  
+🎓 Graudado em Sistemas para Internet, pela Universidade Católica de Pernambuco 
 📍 Recife - PE  
 
 ## 🔹 Tecnologias
