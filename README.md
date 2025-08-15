@@ -1,8 +1,8 @@
 # Olá! Eu sou Matheus Vinícius 👋
 
 💻 Desenvolvedor Web | Front-end & Back-end  
-🎓 Graudado em Sistemas para Internet, pela Universidade Católica de Pernambuco 
-📍 Recife - PE  
+🎓 Graudado em Sistemas para Internet, pela Universidade Católica de Pernambuco  
+📍 Recife - PE
 
 ## 🔹 Tecnologias
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
